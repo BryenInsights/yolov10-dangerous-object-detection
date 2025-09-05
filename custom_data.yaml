@@ -1,0 +1,8 @@
+path: /content/datasets
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: sharp_object
+  1: person
