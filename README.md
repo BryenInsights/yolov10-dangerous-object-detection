@@ -1,4 +1,5 @@
-# Object Detection Project
+# Dangerous Object Detection with YOLOv10
+Detecting sharp objects and persons in kitchen environments
 
 ## Overview
 
