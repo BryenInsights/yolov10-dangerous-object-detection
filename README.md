@@ -1,5 +1,5 @@
 # Dangerous Object Detection with YOLOv10
-Detecting sharp objects and persons in kitchen environments
+This project focuses on fine-tuning YOLOv10 for detecting sharp objects and persons in kitchen environments, with the goal of improving everyday safety. It emphasizes the importance of dataset quality, environment consistency, and augmentation choices, while showcasing how model adaptation can address real-world challenges.
 
 ## Overview
 
